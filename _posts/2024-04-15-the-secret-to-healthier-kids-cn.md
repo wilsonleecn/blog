@@ -7,7 +7,7 @@ tags: [绿色, 红色]
 image: assets/images/kids-outdoor.jpg
 description: "从增强自信到改善心理健康，户外冒险游戏提供了广泛的好处。"
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 

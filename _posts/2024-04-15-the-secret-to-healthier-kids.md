@@ -6,7 +6,7 @@ categories: [ Kids' Growth, Activities ]
 tags: [green, red]
 image: assets/images/kids-outdoor.jpg
 description: "From boosting confidence to improving mental health, outdoor risky play offers vast benefits."
-featured: true
+featured: false
 hidden: true
 rating: 4.5
 ---
